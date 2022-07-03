@@ -1,0 +1,215 @@
+/*font-family: 'Comfortaa', cursive;
+font-family: 'Gluten', cursive;*/
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+html{
+  scroll-behavior:smooth;
+}
+#allDiana{
+  background-image: linear-gradient(to left, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+.logoE{
+  position: absolute;
+  margin: 0px 5px;
+  width: 70px;
+  height: auto;
+  left: 15px;
+}
+.logo1{
+  margin: 0px 20px;
+  left: 70px;
+  position: absolute;
+  width: 100px;
+  height: auto;}
+
+/*#linea{
+position: relative;
+top: 20px;
+left: 60%;
+width: 35%;*/
+}
+}
+.menu{
+  top: 30px;
+  margin: 0 0 0 15px;
+}
+.menuLetras{
+text-decoration: none;
+color: #29292C;
+margin: 0 30px;
+font-size: 1.2em;}
+
+#monitor{
+  margin: 50px;
+  width: 700px;
+  height: auto;
+}
+.letrasIni{
+  position: relative;
+  font-family: 'Gluten';
+}
+/*/////////////////////////////////////////////////*/
+.rosa{
+  position:relative;
+  top: 250px;
+  left: -40%;
+  width: 400px;
+}
+#workImgs{
+  padding-top: 7%;
+  padding-bottom: 5%;
+  padding-left:15%;
+  padding-right: 5%;
+  position:relative;
+}
+#work1{
+   width:350px;
+}
+#work1:hover{
+  filter:grayscale(80%);
+  transform:scale(1.2);
+}
+#work2{
+    width:350px;
+}
+#work2:hover{
+  filter:grayscale(80%);
+  transform:scale(1.2);
+}
+#work3{
+  width:auto;
+ height:350px;
+padding-top: 50px;
+}
+#work3:hover{
+  filter:grayscale(80%);
+  transform:scale(1.2);
+}
+#work4{
+   width:auto;
+ height:350px;
+  padding-top:50px;
+}
+#work4:hover{
+  filter:grayscale(80%);
+  transform:scale(1.2);
+}
+.textWork{
+  font-family: 'Comfortaa';
+  color: #29292C;
+  font-size: 1.2em;
+   height: 0px;
+   margin: 0px;
+}
+#bran{
+  position:absolute;
+  top:80px;
+  left:400px;
+}
+#ilustra{
+  position:absolute;
+  top:300px;
+  right: 50px;
+  -webkit-transform: rotate(90deg); 
+}
+#diseInt{
+  position:absolute;
+  top:500px;
+  left:70px;
+  -webkit-transform: rotate(-90deg); 
+}
+#diseWeb{
+  position:absolute;
+  left:660px;
+  bottom:70px;   
+}
+/*/////////////////////////////////////////////////*/
+.letrasSobre{
+  position: relative;
+  font-family: 'Gluten';
+  color: #488FB1;
+  padding-top:30px;}
+#logoSobre{
+  position:absolute;
+  right:30px;
+  top:10px;
+  width:100px;}
+
+#cirIzq{
+  position:absolute;
+  left:-10%;
+  width:500px;
+  z-index: 1;}
+#lestrasIzq{
+  z-index: 2;
+  position:absolute;
+  font-family: 'Comfortaa';
+  color: #29292C;
+  font-size: 2em;
+  }
+#meImg2{
+  z-index: 3;
+  position:relative;
+  width:550px;
+  top:200px;
+  left:-70px;}
+
+#cirDer{
+  position:absolute;
+  right:0%;
+  width:350px;
+  z-index: 1;
+  padding-bottom:20px;}
+
+.letrasDer{
+  right:10px;
+  z-index: 2;
+  position:absolute;
+  font-family: 'Comfortaa';
+  color: #29292C;
+  font-size: 2em}
+
+#meImg1{
+  z-index: 3;
+  position:relative;
+  width:300px;
+  top:150px;
+  right:0%;}
+#logo3{
+  padding-top:5px;
+  width:200px;
+}
+#meSobre{
+  padding-top:20px;
+  padding-bottom:20px;
+  width:300px;
+}
+#banderas{
+  width:200px;}
+#conoceDiana{
+  font-size: 3.5em}
+#conoce{
+  font-size: 2.5em
+}
+/*/////////////////////////////////////////////////*/
+#contacto{
+  background-color: #C4DDFF;
+  min-height:250px;
+}
+#logoFooter, #logoF2{
+  position:relative;
+  width:100px;}
+  
+.segContac{
+  font-family: 'Gluten';
+  color: #488FB1;
+  padding:50px;
+}
+#logoFb, #logoInsta, #logoPint, #logoMusica{
+  width:70px;
+  padding:15px;
+}

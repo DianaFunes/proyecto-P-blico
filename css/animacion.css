@@ -1,0 +1,57 @@
+.nubes{
+  position: absolute;
+
+}
+#nube1{
+  animation: movimiento 5s linear infinite;}
+#nube1{
+  top: -10%;
+  width: 30%;
+  left:10%
+}
+#nube2{
+  animation: movimiento 6s linear infinite;}
+#nube2{
+  width: 30%;
+  right: 0%;
+  bottom: 10px;
+}
+#nube3{
+  animation: movimiento 5s linear infinite;}
+#nube3{
+  bottom: 10px;
+  width: 20%;
+  left:10%
+}
+#nube5{
+  animation: movimiento 7s linear infinite;}
+#nube5{
+  top: 30%;
+  width: 30%;
+  left:-10%
+}
+#nube4{
+  animation: movimiento 5s linear infinite;}
+#nube4{
+  top: 15px;
+  width: 20%;
+  right: 0%;
+}
+#nube7{
+  animation: movimiento 6s linear infinite;}
+#nube7{
+  top: 45%;
+  width: 20%;
+  left: 25%;}
+#nube8{
+  animation: movimiento 5s linear infinite;}
+#nube8{
+  top: 25%;
+  width: 20%;
+  right: 20%;
+}
+@keyframes movimiento{
+  0%{transform: translateY(0);}
+  50%{transform: translateY(60px);}
+  100%{transform: translateY(0);}
+}
